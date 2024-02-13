@@ -10,5 +10,5 @@ Este é um jogo clássico de Snake implementado em HTML, CSS e JavaScript.
 
 ## Como Executar
 
-Basta abrir o arquivo `index.html` em um navegador web para jogar o jogo ou seguir o link do pages. 
+Basta abrir o arquivo `index.html` em um navegador web para jogar o jogo ou seguir o link do pages ([snake game](https://brukorczak.github.io/Snake_Game/)).
 
